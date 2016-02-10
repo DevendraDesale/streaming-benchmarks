@@ -38,7 +38,7 @@ Licensed under the terms of the Apache License 2.0. Please see LICENSE file in t
             <dependency>
                 <groupId>org.apache.storm</groupId>
                 <artifactId>storm-kafka</artifactId>
-                <version>${storm.version}</version>
+                <version>${sto rm.version}</version>
             </dependency>
             <dependency>
                 <groupId>commons-cli</groupId>
